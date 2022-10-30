@@ -1,1 +1,1 @@
-# DNN_midterm_assignments
+# DNN midterm assignments
